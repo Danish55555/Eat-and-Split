@@ -1,2 +1,4 @@
-# Eat-and-Split
-A react app to pay and split bill between You and your friend
+# Eat and Split Application
+- Eat with friends and split the bill between yourself and friend
+- You can add new friends also
+
